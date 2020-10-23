@@ -3,6 +3,8 @@ Small Outlook VBA program to move selected emails in a subfolder via a userform 
 
 # How to use it ?
 
+Your need to insert the macro code and create the userform in Outlook.
+
 Just insert code in your Outlook macro. (you need access the VBA editor of Outlook)
 
 1. Create a userform with name *NostradamousseForm* and a module *NostradamousseModule*
