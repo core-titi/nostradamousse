@@ -87,7 +87,7 @@ Sub UpdateFolderList()
     'find the items with search string
     For Each it In fList
     
-        If CaseSensible.Value = False Then 'ignore case
+        If chkCaseSensible.Value = False Then 'ignore case
         
             If InStr(1, LCase(it), LCase(searchbox.Value)) <> 0 Then
                 folderList.AddItem it
