@@ -17,7 +17,7 @@ And you can execute Nostradamousse via Outlook macro
 
 ## Userform creation and input
 
-You can create the design of the userform you wish, the size, the color and anything else you want. You just need to change to use the defined name for all input. Please respected the case.
+You can create the design of the userform you wish, the size, the color and anything else you want. You just need use the defined name for all inputs. Please respected the case.
 
 ![NostradamousseForm](nostradamousse-form.png)
 
