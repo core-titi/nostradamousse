@@ -3,7 +3,7 @@ Small Outlook VBA program to move selected emails in a subfolder via a userform 
 
 ## Main features
 
-* Incremental search subfolder
+* Incremental search subfolders
 * Optional case sensible search
 * Autoselect on unique folder result
 
