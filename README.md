@@ -19,10 +19,12 @@ And you can execute Nostradamousse via Outlook macro
 
 You can create the design of the userform you wish, the size, the color and anything else you want. You just need to change to use the defined name for all input. Please respected the case.
 
-The search bar textbox : searchbox
-The checkbox of the case sensible : CaseSensible
-Move email to folder submit button : btMoveToFolder
-The folder list input : folderList
+!(nostradamousse-form.png)
+
+* The search bar textbox : searchbox
+* The checkbox of the case sensible : CaseSensible
+* Move email to folder submit button : btMoveToFolder
+* The folder list input : folderList
 
 
 
