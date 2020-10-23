@@ -22,7 +22,7 @@ You can create the design of the userform you wish, the size, the color and anyt
 ![NostradamousseForm](nostradamousse-form.png)
 
 * Search bar textbox : searchbox
-* Checkbox of the case sensible : CaseSensible
+* Checkbox of the case sensible : chkCaseSensible
 * Move email to folder submit button : btMoveToFolder
 * Folder list input : folderList
 
