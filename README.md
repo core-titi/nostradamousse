@@ -1,6 +1,12 @@
 # Nostradamousse
 Small Outlook VBA program to move selected emails in a subfolder via a userform with incremental search.
 
+## Main features
+
+* Incremental search subfolder
+* Optional case sensible search
+* Autoselect on unique folder result
+
 # How to use it ?
 
 Your need to insert the macro code and create the userform in Outlook.
